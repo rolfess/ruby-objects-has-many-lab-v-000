@@ -5,6 +5,6 @@ class Artist
     @song = song
   end
 
-  
+
 
 end
